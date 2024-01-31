@@ -1,0 +1,16 @@
+{
+  "name": "unittests_in_js",
+  "version": "1.0.0",
+  "description": "This is unittest in js project by Alx",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Abeeb Raheem",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sinon": "^15.0.1"
+  }
+}
